@@ -29,3 +29,7 @@ Calle Arboleda #10, Urb. Real, Santo Domingo, República Dominicana.
 El formulario prepara el mensaje en WhatsApp para que el visitante lo revise y envíe. No almacena datos.
 
 Las fotografías de productos y la identidad visual pertenecen a Inversiones Terra Caribe SRL.
+
+## Imagen de limpieza
+
+`assets/limpieza-empresas.webp` es una imagen ilustrativa generada con IA de las categorías confirmadas: jabones, jabón líquido, cloro, desgrasante y fundas negras. Representa la categoría; no describe marcas, tamaños o envases exactos del inventario.
